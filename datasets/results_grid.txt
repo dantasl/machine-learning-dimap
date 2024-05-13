@@ -1,0 +1,4 @@
+Dataset: datasets/twitter_sentiment_base_ready.csv, 10-Fold CV Average Accuracy: 0.5995416666666668
+Dataset: datasets/twitter_sentiments_base_sampled.csv, 10-Fold CV Average Accuracy: 0.575
+Dataset: datasets/twitter_sentiment_base_decision_tree.csv, 10-Fold CV Average Accuracy: 0.166125
+Dataset: datasets/twitter_sentiment_base_pca.csv, 10-Fold CV Average Accuracy: 0.40199999999999997

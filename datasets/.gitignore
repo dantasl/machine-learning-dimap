@@ -1,3 +1,5 @@
 *
 !.gitignore
+!*.png
+!*.txt
 !twitter_sentiment_base_original.csv
