@@ -1,0 +1,11 @@
+
+
+
+10-fold CV Accuracy of ADA Boosting (DecisionTreeClassifier as the Base Estimator) with 10 estimators: 0.31520833333333337
+10-fold CV Accuracy of ADA Boosting (DecisionTreeClassifier as the Base Estimator) with 20 estimators: 0.3200833333333334
+10-fold CV Accuracy of ADA Boosting (KNeighborsClassifierWrapper as the Base Estimator) with 10 estimators: 0.3719166666666666
+10-fold CV Accuracy of ADA Boosting (KNeighborsClassifierWrapper as the Base Estimator) with 20 estimators: 0.3719166666666666
+10-fold CV Accuracy of ADA Boosting (GaussianNBWrapper as the Base Estimator) with 10 estimators: 0.38883333333333336
+10-fold CV Accuracy of ADA Boosting (GaussianNBWrapper as the Base Estimator) with 20 estimators: 0.38883333333333336
+10-fold CV Accuracy of ADA Boosting (MLPClassifierWrapper as the Base Estimator) with 10 estimators: 0.6182916666666667
+10-fold CV Accuracy of ADA Boosting (MLPClassifierWrapper as the Base Estimator) with 20 estimators: 0.6194166666666667
