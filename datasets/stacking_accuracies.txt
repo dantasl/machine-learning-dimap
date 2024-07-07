@@ -1,0 +1,8 @@
+Accuracy of Stacking Classifier with 10 base estimators and 0.3 test split: 0.6005555555555555
+Accuracy of Stacking Classifier with 20 base estimators and 0.3 test split: 0.5972222222222222
+Accuracy of Stacking Classifier with 10 base estimators and 0.2 test split: 0.6097916666666666
+Accuracy of Stacking Classifier with 20 base estimators and 0.2 test split: 0.615
+Accuracy of Stacking Classifier with 10 base estimators and 0.1 test split: 0.6058333333333333
+Accuracy of Stacking Classifier with 20 base estimators and 0.1 test split: 0.6083333333333333
+10-fold CV Accuracy of Stacking Classifier with 10 estimators: 0.592875
+10-fold CV Accuracy of Stacking Classifier with 20 estimators: 0.6092916666666667

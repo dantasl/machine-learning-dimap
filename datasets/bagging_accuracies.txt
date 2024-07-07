@@ -1,0 +1,19 @@
+Accuracy of Bagging Classifier (DecisionTreeClassifier() as the Base Estimator) with 10 estimators, 0.8 max features and 0.2 test split: 0.348125
+Accuracy of Bagging Classifier (DecisionTreeClassifier() as the Base Estimator) with 10 estimators, 0.3 max features and 0.1 test split: 0.33125
+Accuracy of Bagging Classifier (DecisionTreeClassifier() as the Base Estimator) with 20 estimators, 0.3 max features and 0.1 test split: 0.3725
+Accuracy of Bagging Classifier (DecisionTreeClassifier() as the Base Estimator) with 10 estimators, 0.5 max features and 0.1 test split: 0.33958333333333335
+Accuracy of Bagging Classifier (DecisionTreeClassifier() as the Base Estimator) with 20 estimators, 0.5 max features and 0.1 test split: 0.37041666666666667
+Accuracy of Bagging Classifier (DecisionTreeClassifier() as the Base Estimator) with 10 estimators, 0.8 max features and 0.1 test split: 0.33875
+Accuracy of Bagging Classifier (DecisionTreeClassifier() as the Base Estimator) with 20 estimators, 0.8 max features and 0.1 test split: 0.3729166666666667
+10-fold CV Accuracy of Bagging Classifier (KNeighborsClassifier as the Base Estimator) with 10 estimators and 0.3 max features: 0.39233333333333337
+10-fold CV Accuracy of Bagging Classifier (KNeighborsClassifier as the Base Estimator) with 20 estimators and 0.3 max features: 0.4018333333333334
+10-fold CV Accuracy of Bagging Classifier (KNeighborsClassifier as the Base Estimator) with 10 estimators and 0.5 max features: 0.38408333333333333
+10-fold CV Accuracy of Bagging Classifier (KNeighborsClassifier as the Base Estimator) with 20 estimators and 0.5 max features: 0.3939583333333333
+10-fold CV Accuracy of Bagging Classifier (KNeighborsClassifier as the Base Estimator) with 10 estimators and 0.8 max features: 0.38054166666666667
+10-fold CV Accuracy of Bagging Classifier (KNeighborsClassifier as the Base Estimator) with 20 estimators and 0.8 max features: 0.3872083333333333
+10-fold CV Accuracy of Bagging Classifier (GaussianNB as the Base Estimator) with 10 estimators and 0.3 max features: 0.3884166666666667
+10-fold CV Accuracy of Bagging Classifier (GaussianNB as the Base Estimator) with 20 estimators and 0.3 max features: 0.3867083333333333
+10-fold CV Accuracy of Bagging Classifier (GaussianNB as the Base Estimator) with 10 estimators and 0.5 max features: 0.38849999999999996
+10-fold CV Accuracy of Bagging Classifier (GaussianNB as the Base Estimator) with 20 estimators and 0.5 max features: 0.38741666666666663
+10-fold CV Accuracy of Bagging Classifier (GaussianNB as the Base Estimator) with 10 estimators and 0.8 max features: 0.3864166666666667
+10-fold CV Accuracy of Bagging Classifier (GaussianNB as the Base Estimator) with 20 estimators and 0.8 max features: 0.387625

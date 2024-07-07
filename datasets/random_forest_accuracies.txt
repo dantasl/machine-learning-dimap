@@ -1,0 +1,24 @@
+Accuracy of Random Forest Classifier with 10 estimators, gini criterion and 0.3 test split: 0.31833333333333336
+Accuracy of Random Forest Classifier with 100 estimators, gini criterion and 0.3 test split: 0.4338888888888889
+Accuracy of Random Forest Classifier with 10 estimators, entropy criterion and 0.3 test split: 0.31958333333333333
+Accuracy of Random Forest Classifier with 100 estimators, entropy criterion and 0.3 test split: 0.4313888888888889
+Accuracy of Random Forest Classifier with 10 estimators, log_loss criterion and 0.3 test split: 0.31958333333333333
+Accuracy of Random Forest Classifier with 100 estimators, log_loss criterion and 0.3 test split: 0.4313888888888889
+Accuracy of Random Forest Classifier with 10 estimators, gini criterion and 0.2 test split: 0.3254166666666667
+Accuracy of Random Forest Classifier with 100 estimators, gini criterion and 0.2 test split: 0.43583333333333335
+Accuracy of Random Forest Classifier with 10 estimators, entropy criterion and 0.2 test split: 0.328125
+Accuracy of Random Forest Classifier with 100 estimators, entropy criterion and 0.2 test split: 0.4295833333333333
+Accuracy of Random Forest Classifier with 10 estimators, log_loss criterion and 0.2 test split: 0.328125
+Accuracy of Random Forest Classifier with 100 estimators, log_loss criterion and 0.2 test split: 0.4295833333333333
+Accuracy of Random Forest Classifier with 10 estimators, gini criterion and 0.1 test split: 0.32916666666666666
+Accuracy of Random Forest Classifier with 100 estimators, gini criterion and 0.1 test split: 0.4370833333333333
+Accuracy of Random Forest Classifier with 10 estimators, entropy criterion and 0.1 test split: 0.3275
+Accuracy of Random Forest Classifier with 100 estimators, entropy criterion and 0.1 test split: 0.43041666666666667
+Accuracy of Random Forest Classifier with 10 estimators, log_loss criterion and 0.1 test split: 0.3275
+Accuracy of Random Forest Classifier with 100 estimators, log_loss criterion and 0.1 test split: 0.43041666666666667
+10-fold CV Accuracy of Random Forest Classifier with 10 estimators and gini criterion: 0.3310416666666667
+10-fold CV Accuracy of Random Forest Classifier with 100 estimators and gini criterion: 0.4374166666666667
+10-fold CV Accuracy of Random Forest Classifier with 10 estimators and entropy criterion: 0.328
+10-fold CV Accuracy of Random Forest Classifier with 100 estimators and entropy criterion: 0.437375
+10-fold CV Accuracy of Random Forest Classifier with 10 estimators and log_loss criterion: 0.328
+10-fold CV Accuracy of Random Forest Classifier with 100 estimators and log_loss criterion: 0.437375
